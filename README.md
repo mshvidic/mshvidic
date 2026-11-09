@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I am a quality engineering professional dedicated to transforming complex client requirements into bulletproof automated testing strategies. Over my career, I’ve had the privilege of collaborating with agile startups and massive distributed multinational enterprises—including premier tech companies and global stock exchanges—ensuring high-availability software across **Finance, InsurTech, Capital Markets, E-commerce, and Travel**.
+I am a quality engineering professional with over 10 years of experience dedicated to transforming complex client requirements into bulletproof automated testing strategies. Over my career, I’ve had the privilege of collaborating with agile startups and massive distributed multinational enterprises—including premier tech companies and global stock exchanges—ensuring high-availability software across **Finance, InsurTech, Capital Markets, E-commerce, and Travel**.
 
 My core focus centers on architecting robust UI and API testing frameworks using **TypeScript, Java, and C#**, while continuously modernizing validation pipelines through smart workflow automations (`n8n`) and AI-assisted development tools.
 
@@ -18,7 +18,7 @@ My core focus centers on architecting robust UI and API testing frameworks using
       <h3>🎭 <a href="https://github.com/mshvidic/component-tests-playwright">component-tests-playwright</a></h3>
       <p>Playwright component testing suite designed for isolated React component validation and rapid frontend quality checks.</p>
       <ul>
-        <li>Direct mount testing for React components (`BookingList.tsx`)</li>
+        <li>Direct mount testing for React components (<code>BookingList.tsx</code>)</li>
         <li>Isolated UI rendering without full backend dependencies</li>
         <li>Reliable locator strategies & fast execution loops</li>
       </ul>
@@ -56,6 +56,19 @@ My core focus centers on architecting robust UI and API testing frameworks using
         <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/mshvidic/java-ui-api">java-ui-api</a></h3>
+      <p>A Java-based test automation framework structured for integrating UI and API validation layers.</p>
+      <ul>
+        <li>Combined UI and backend API test execution</li>
+        <li>Maven build configuration & structured test suites</li>
+        <li>Robust assertions and automation patterns</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -63,19 +76,19 @@ My core focus centers on architecting robust UI and API testing frameworks using
 
 ### 🛠️ Technical Expertise
 
-* **Languages:** JavaScript, TypeScript, Java, C#, Python
-* **Automation & Testing:** Playwright, Selenium, WebdriverIO, Appium, Jest, Mocha, Chai, TestNG, xUnit, MSTest, RestAssured, Postman, JMeter, React Testing Library
-* **CI/CD & Version Control:** Jenkins, Git, GitHub, GitLab, Bitbucket, Maven, npm, NuGet
-* **AI & Workflow Tools:** n8n, Automation Anywhere, GitHub Copilot, Claude
-* **Data & Tooling:** SQL, Allure, Mochawesome, IntelliJ, Visual Studio, VS Code
+- **Languages:** JavaScript, TypeScript, Java, C#, Python
+- **Automation & Testing:** Playwright, Selenium, WebdriverIO, Appium, Jest, Mocha, Chai, TestNG, xUnit, MSTest, RestAssured, Postman, JMeter, React Testing Library
+- **CI/CD & Version Control:** Jenkins, Git, GitHub, GitLab, Bitbucket, Maven, npm, NuGet
+- **AI & Workflow Tools:** n8n, Automation Anywhere, GitHub Copilot, Claude
+- **Data & Tooling:** SQL, Allure, Mochawesome, IntelliJ, Visual Studio, VS Code
 
 ### 🎓 Academic Background
 
-* **Master of Science (GPA: 10/10):** Faculty of Economics, University of Belgrade — *Quantitative Analysis & Actuarial Science*
-* **Bachelor of Science (GPA: 9.52/10):** Faculty of Economics, University of Belgrade — *Finance, Banking and Insurance (Financial Markets)*
+- **Master of Science (GPA: 10/10):** Faculty of Economics, University of Belgrade — *Quantitative Analysis & Actuarial Science*
+- **Bachelor of Science (GPA: 9.52/10):** Faculty of Economics, University of Belgrade — *Finance, Banking and Insurance (Financial Markets)*
 
 ### 📫 Let's Connect
 
-* **Email:** milosvidic1990@gmail.com
-* **LinkedIn:** [miloš-v-57ba80104](https://www.linkedin.com/in/miloš-v-57ba80104)
-* **Location:** Belgrade, Serbia - Remote
+- **Email:** milosvidic1990@gmail.com
+- **LinkedIn:** [miloš-v-57ba80104](https://www.linkedin.com/in/miloš-v-57ba80104)
+- **Location:** Belgrade, Serbia - Remote
