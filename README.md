@@ -1,6 +1,6 @@
 # Hello there! I'm Miloš Vidić 👋
 
-### **Senior QA Automation Engineer & SDET | Fintech & Capital Markets Domain Specialist**
+### **Senior QA Automation Engineer & SDET | Fintech, InsurTech & Capital Markets Domain Specialist**
 
 ### 🚀 About Me
 
@@ -76,11 +76,52 @@ My core focus centers on architecting robust UI and API testing frameworks using
 
 ### 🛠️ Technical Expertise
 
-- **Languages:** JavaScript, TypeScript, Java, C#, Python
-- **Automation & Testing:** Playwright, Selenium, WebdriverIO, Appium, Jest, Mocha, Chai, TestNG, xUnit, MSTest, RestAssured, Postman, JMeter, React Testing Library
-- **CI/CD & Version Control:** Jenkins, Git, GitHub, GitLab, Bitbucket, Maven, npm, NuGet
-- **AI & Workflow Tools:** n8n, Automation Anywhere, GitHub Copilot, Claude
-- **Data & Tooling:** SQL, Allure, Mochawesome, IntelliJ, Visual Studio, VS Code
+- **Languages:** <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+- **Automation & Testing:** <br>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-663399?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=flat-square&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSTest-512BD4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-61DAFB?style=flat-square&logo=testinglibrary&logoColor=black" />
+
+- **CI/CD & Version Control:** <br>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white" />
+
+- **AI & Workflow Tools:** <br>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Anywhere-FFB81C?style=flat-square&logo=automationanywhere&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC6633?style=flat-square&logo=anthropic&logoColor=white" />
+
+- **Data & Tooling:** <br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-FF6F00?style=flat-square&logo=allure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mochawesome-8D6748?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
 ### 🎓 Academic Background
 
